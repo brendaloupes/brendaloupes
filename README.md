@@ -21,7 +21,7 @@ Atualmente, desenvolvendo minhas skills em front-end. <br/>
             src="https://custom-icon-badges.demolab.com/badge/-instagram?color=D42669&labelColor=D42669&style=for-the-badge&logo=instagram&label=Instagram&logoColor=white"/>
 </a>
 </a>
-<a href="https://spotify.com/user/brendatsunami">
+<a href="https://open.spotify.com/user/brendatsunami?si=HMoj2pqwQyye-S-FH710HA">
         <img 
             alt="Spotify"
             title="" 
