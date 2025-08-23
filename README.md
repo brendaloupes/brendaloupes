@@ -5,7 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistemas pela UNIT. <br/>
 Atualmente, desenvolvendo minhas skills em front-end. <br/>
 
 
-## 🔗 Linka comigo:
+## 🔗 Linka comigo
 <p align="left">
 <a href="https://www.linkedin.com/in/brendaloupes">
         <img 
